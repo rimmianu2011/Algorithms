@@ -1,5 +1,4 @@
 /*
- * Homework 0-2
  * Filename: SmallestTwo.java
  */
 
